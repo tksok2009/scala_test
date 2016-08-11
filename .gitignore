@@ -1,0 +1,8 @@
+##
+
+my-app/RUNNING_PID
+my-app/logs/
+my-app/project/*-shim.sbt
+my-app/project/project/
+my-app/project/target/
+my-app/target/
